@@ -97,7 +97,8 @@ a:visited{
     text-align: left;
     position: relative;
     margin-right: 600px;
-     position: static;
+    position: static;
+    display: inline;
    
  }
 
