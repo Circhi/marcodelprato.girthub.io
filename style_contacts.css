@@ -1,0 +1,23 @@
+@font-face {
+    font-family:"Iowa";
+    src: url(fonts/2131-font.ttf);
+}
+.body{
+    background-color: #131313;
+    margin-left: 150px;
+}
+
+ 
+ .h1{
+    color: white;
+    text-align: left;
+    font-family: Iowa;
+    margin-right: 300px;
+    cursor: text;
+    font-size: 20px;
+ }
+
+
+
+
+
